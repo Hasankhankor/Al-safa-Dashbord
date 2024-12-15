@@ -1,6 +1,6 @@
-# Ecommerce admin dashboard
+# Al safa admin dashboard
 
-The Ecommerce Admin Dashboard is a tool designed specifically for managing an online store's essentials: products, orders, and customers. It's all about making life simpler for admins, helping them get things done smoothly and efficiently.
+The Al safa Admin Dashboard is a tool designed specifically for managing an online store's essentials: products, orders, and customers. It's all about making life simpler for admins, helping them get things done smoothly and efficiently.
 
 ![Page screenshot](https://ecommerce-admin-board.vercel.app/assets/page-screenshot.png)
 
@@ -28,11 +28,6 @@ The Ecommerce Admin Dashboard is a tool designed specifically for managing an on
 
 To run Ecommerce Admin Dashboard locally, follow these steps:
 
-### Clone the repository:
-
-```bash
-git clone https://github.com/taiwo-adewale/ecommerce-admin.git
-```
 
 ### Navigate to the project directory:
 
@@ -63,6 +58,3 @@ We welcome contributions from the community. If you'd like to contribute to Ecom
 3. Make your changes, ensuring clear code and comments.
 4. Submit a pull request, describing your changes in detail.
 
-## Contact
-
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:adewaletaiwo08@gmail.com).
